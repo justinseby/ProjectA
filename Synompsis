@@ -25,3 +25,5 @@ ahead. When I run git push it will upload both commits. I also have to tell it w
 The push is done. Let's check the Bitbucket repo. And there are my two commits. There's a lot more we can do Git and the command line, but we've learned enough to start i
 ncorporating version control into your workflow today. If you want to explore the command line a little more I would suggest reviewing some of the lessons and going through
 some of the additional resources that I've referenced to, such as the Atlassian tutorials or the Git documentation.
+
+
